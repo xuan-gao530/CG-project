@@ -1,0 +1,38 @@
+Project --lantern
+Xuan Gao
+
+How to run
+ THe main code file is final.c.
+ Using "make final".
+
+Key bindings
+
+/*
+ 1、 basic 
+ *  a/A        Toggle axes
+ *  0          Reset view angle
+ *  ESC        Exit
+
+2、change the mode and view angle
+ * p/P         change the mode of projection: 0:Perpective 1:First person Navigation"
+ * arrows      change view angle
+ * PgDn/PgUp   Zoom in and out
+ * Q           turn left
+ * q           turn right
+ * w           forward
+ * W           back
+ * Z           look up
+ * z           look down
+  
+3.lighting
+ *  []         Lower/rise light
+ *  s/S        Move the light (when the light is still)
+*/
+
+ Some problems
+ 1) When I use "errcheck" in display function , it has error "1282 invalid operation". But I don't find the reason. I will work on it.
+ 2) It seems like that the shader is weird. I will spend time to deal with it.
+
+ Something that remains to be done
+ 1） Now I just have a simple light and I need to deal with mulptiple light using shader.
+ 2)  I will try to draw a simple fireworks which is my stretch goal.
