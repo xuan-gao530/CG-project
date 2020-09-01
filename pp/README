@@ -1,0 +1,13 @@
+Initial Draft of Final Project
+Name :Xuan Gao
+CSCI 5239
+
+1、 Run the program
+This program is a simple supermarket system which can use to manage the stocks and do the shopping.
+It's a web application which need to install the mysql,tomcat,JDBC.  All files are included in the sunny filefolder.
+For this course, I also convert the .jsp to .html which can show the effect directly. However, buttons is unvalid in .html.
+I will demo this application when doing the presentaion.
+
+2、The project is to write some effects using webGL.
+I add the fourtain effect at the bottom of the index.html. It takes me lots of time to finish this particle system in WebGL since I'm a beginer in Javascript and HTML. I know this project is far from a good project, sorry about that. 
+I also add some decorations to the login.html. 
